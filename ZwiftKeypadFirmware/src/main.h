@@ -38,7 +38,7 @@
 #define S8KEYCODE 32 // Space
 
 #define S9KEYCODE KEY_PAGE_UP // Page Up
-#define S10KEYCODE KEY_TAB // Tab
+#define S10KEYCODE KEY_RETURN  // Return
 #define S11KEYCODE KEY_UP_ARROW // Up arrow
 #define S12KEYCODE KEY_ESC // Esc
 
